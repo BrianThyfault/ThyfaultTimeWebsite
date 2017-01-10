@@ -1,0 +1,176 @@
+body
+{
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: red;
+}
+
+.cr
+{
+  position: fixed;
+  bottom: 1px;
+  float: right;
+}
+
+#error
+{
+  font-family: "Gill Sans MT";
+  font-size: 16;
+  margin-top: 200px;
+}
+
+iframe
+{
+  float: center;
+  
+}
+
+#videos
+{
+  padding-top: 100px;
+  top: 100px;
+  margin: 0 auto 0;
+}
+
+.home
+{
+  text-align: center;
+}
+
+#about
+{
+  margin-top: 120px;
+}
+
+.transparent
+{
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+canvas
+{
+  text-align: center;
+  margin: 0 auto 0;
+}
+
+ul
+{
+  font-family: "Gill Sans MT";
+  width: 100%;
+  background-color: rgba(100, 100, 100, 0.7);
+  margin: 0px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  color: white;
+}
+
+ul > li:hover
+{
+  text-decoration: underline;
+}
+
+#submit
+{
+  height: 30px;
+  font-family: "Gill Sans MT";
+  font-size: 14;
+  color: black;
+}
+
+p
+{
+  text-align: center;
+  font-family: "Gill Sans MT";
+  color: white;
+}
+
+h1
+{
+  text-align: center;
+  font-family: "Gill Sans MT";
+  color: white;
+}
+h2
+{
+  text-align: center;
+  font-family: "Gill Sans MT";
+  color: white;
+}
+
+ul > li > a
+{
+  text-decoration: none;
+  color: white;
+}
+
+ul > li
+{
+  float: right;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 2vw;
+  color: white;
+  margin: 20px;
+  margin-right: 100px;
+  vertical-align: middle;
+  text-shadow:
+  -1px -1px 0 #000000,
+  1px -1px 0 #000000,
+  1px 1px 0 #000000,
+  -1px 1px 0 #000000;
+}
+
+#logo
+{
+  width: 100px;
+  height: 100px;
+}
+
+.container
+{
+  background-color: rgba(100, 100, 100, 0.7);
+  border: 1px solid black;
+  color: white;
+  width: 50%;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+#mainDiv
+{
+  margin: 0 auto;
+  font-family: "Gill Sans MT";
+  top: 20%;
+  font-size: 18;
+  color: white;
+  margin-top: 10%;
+}
+
+.info
+{
+  padding: 10px;
+}
+
+form > input
+{
+  width: 100%;
+  font-family: monospace;
+  font-size: 16;
+}
+
+form > textarea
+{
+  width: 100%;
+  font-family: monospace;
+  font-size: 16;
+}
+
+#form
+{
+  margin: 0 auto;
+  font-family: "Gill Sans MT";
+  top: 20%;
+  color: white;
+  margin-top: 10%;
+}
